@@ -1,0 +1,78 @@
+Que arquitectura conoce
+Arquitecturas:
+
+	Arquitectura de 3 capas (cliente-servidor)
+	Arquitectura MVC (Modelo-Vista-Controlador)
+	Arquitectura de microservicios
+	Arquitectura orientada a servicios (SOA)
+	Arquitectura sin servidor (Serverless)
+ 	Arquitectura de eventos (Event-Driven Architecture)
+ 
+Frameworks utilizados:
+
+Que frameworks ha usado
+	 angular
+	 spring
+	 node
+	 primefaces
+	 jsp
+	 jpa
+	 jsf
+	 java
+	 c#
+	 .net frameworks
+	 .net core
+	 bootstrap
+	 
+	 
+	En el desarrollo web: Angular, React, Vue.js, Django, Ruby on Rails, Laravel, ASP.NET, Express.js, Spring, Flask, etc.
+	En el desarrollo de aplicaciones móviles: React Native, Flutter, Xamarin, Ionic, etc.
+	En el desarrollo de backend: Node.js, Django, Ruby on Rails, Laravel, ASP.NET, Spring Boot, Flask, etc.
+	En el desarrollo de bases de datos: Hibernate, Entity Framework, Sequelize, SQLAlchemy, etc.
+
+
+Scrum:
+
+	Que es Scrum
+	Scrum es un marco de trabajo ágil para la gestión de proyectos.
+	
+	Que es un daily
+	Daily Stand-up (Reunión diaria): Es una reunión corta y diaria donde el equipo revisa el progreso, las tareas realizadas y los obstáculos encontrados.
+
+	Que es una retrospectiva
+	Retrospectiva (Retrospective): Es una reunión periódica donde el equipo reflexiona sobre el último sprint y busca mejoras en el proceso.
+	
+	Que es un sprint
+	Sprint: Es un período de tiempo fijo (generalmente de 1 a 4 semanas) en el que se desarrolla un conjunto de funcionalidades.
+	
+	Que es un backlog
+	Backlog: Es una lista priorizada de tareas o requisitos que se deben realizar en el proyecto.
+
+
+Que comandos unas en la gestión de código fuente en GIT
+Comandos de gestión de código fuente en GIT:
+
+	git init: Inicializa un nuevo repositorio de Git.
+	git clone: Clona un repositorio existente en un directorio local.
+	git add: Agrega cambios al área de preparación (staging area).
+	git commit: Crea un nuevo commit con los cambios agregados en el área de preparación.
+	git push: Envía los commits locales al repositorio remoto.
+	git pull: Obtiene los cambios del repositorio remoto y los fusiona con el repositorio local.
+	git branch: Muestra las ramas disponibles en el repositorio.
+	git checkout: Cambia entre ramas o restaura archivos.
+	git merge: Fusiona una rama con otra.
+	git rebase: Aplica los commits de una rama sobre otra rama base.
+	
+Manejo de estructuras de control a nivel de programación:
+
+	Estructuras de control condicionales (if, else if, else, switch)
+	Bucles (for, while, do-while)
+	Estructuras de control de salto (break, continue, return)
+	
+	
+Habilidades blandas:
+
+	Comunicación: Capacidad para transmitir ideas y conceptos de manera efectiva y clara.
+	Honestidad: Actuar con sinceridad, integridad y transparencia en todas las interacciones.
+	Trabajo en equipo: Habilidad para colaborar y trabajar de manera efectiva con otros miembros del equipo.
+	Facilidad de comunicar ideas técnicas a una persona no técnica: Capacidad para explicar conceptos técnicos de forma comprensible y adaptada al nivel de
